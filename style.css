@@ -139,7 +139,7 @@ section .card .mode{
     left: 75%;
     top: 31px;
     width: 10px;
-    height: 100px;
+    height: 60px;
     cursor: pointer;  
 }
 
